@@ -10,6 +10,8 @@ namespace IEnumberableExample
     {
         static void Main(string[] args)
         {
+             List<string> name =new List<string>();
+            System.Console.WriteLine("THis is an example of  object declaration");
         }
     }
 }
